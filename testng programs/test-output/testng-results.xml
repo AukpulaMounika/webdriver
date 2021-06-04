@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-03T20:30:24 IST" name="Default suite" finished-at="2021-06-03T20:30:48 IST" duration-ms="23610">
+    <groups>
+    </groups>
+    <test started-at="2021-06-03T20:30:24 IST" name="Default test" finished-at="2021-06-03T20:30:48 IST" duration-ms="23610">
+      <class name="test2.Extestng2">
+        <test-method is-config="true" signature="launchb()[pri:0, instance:test2.Extestng2@5bfa9431]" started-at="2021-06-03T20:30:24 IST" name="launchb" finished-at="2021-06-03T20:30:32 IST" duration-ms="7448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchb -->
+        <test-method signature="Tc1()[pri:0, instance:test2.Extestng2@5bfa9431]" started-at="2021-06-03T20:30:32 IST" name="Tc1" finished-at="2021-06-03T20:30:48 IST" duration-ms="15744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method is-config="true" signature="over()[pri:0, instance:test2.Extestng2@5bfa9431]" started-at="2021-06-03T20:30:48 IST" name="over" finished-at="2021-06-03T20:30:48 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- over -->
+      </class> <!-- test2.Extestng2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
